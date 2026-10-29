@@ -28,7 +28,7 @@ Due to copyright restrictions, we provide only annotations. To obtain the comple
 
 **Option 2: Contact the corresponding author**
 
-For inquiries about data access, please contact the corresponding author at (mailto:quynt@uit.edu.vn)
+For inquiries about data access, please contact the corresponding author at quynt@uit.edu.vn
 
 **License:** The original VDT annotations and repository materials released by the VDT authors are licensed under the [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License (CC BY-NC-SA 4.0)](https://creativecommons.org/licenses/by-nc-sa/4.0/).
 
